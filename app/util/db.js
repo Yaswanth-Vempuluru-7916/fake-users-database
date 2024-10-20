@@ -1,7 +1,7 @@
 export const users = [
   {
     "id": "1",
-    "name": "Tanjiro Kamado",
+    "name": "Kamado Tanjiro",
     "age": 15,
     "email": "tanjiro@demoncorp.com",
     "password": "TanjiroKamado15!"
@@ -201,5 +201,12 @@ export const users = [
     "age": 120,
     "email": "nakime@demons.com",
     "password": "Nakime120!"
+  },
+  {
+    "id": "31",
+    "name": "Genya Shinazugawa",
+    "age": "16",
+    "email": "genya@demoncorp.com",
+    "password": "GenyaShinazugawa16!"
   }
 ]
